@@ -1,0 +1,37 @@
+1.-
+commit 9f7a001ba6f526a05d58d954c5498073e968852d
+Author: Cris Ruiz <fercho5523@gmail.com>
+Date:   Sat May 2 13:49:39 2026 -0400
+
+    1st exercises upload
+
+Al principio y la primera vez que hice el upload de todos los archivos tube muchos problemas para juntar los dos repositorios.
+
+2.-
+commit b7bea5734d966882c4492f3650df22a731ac62f3
+Merge: 9f7a001 a8e3254
+Author: Cris Ruiz <fercho5523@gmail.com>
+Date:   Sat May 2 14:36:05 2026 -0400
+
+    Merge branch 'main' of https://github.com/fercho1201/EjerciciosLyfter
+
+Tuve que eliminar todo y empezar de nuevo dos veces para poder llegar a este punto.
+
+3.-
+commit d2a14ea4d5c83886d9d019b0033250970225e94f (origin/main, main)
+Author: Cris Ruiz <fercho5523@gmail.com>
+Date:   Sat May 2 15:12:00 2026 -0400
+
+    Made changes to test
+
+por alguna razon el primer commit que realize no salio como pensaba.
+
+4.-
+PS C:\Users\ferch\Documents\EjerciciosLyfter> git log  
+commit bfe91fde77e9b21b85a7a888b57cd0bfb648155c (HEAD -> ejercicios-listos, origin/ejercicios-listos)
+Author: Cris Ruiz <fercho5523@gmail.com>
+Date:   Sat May 2 15:22:40 2026 -0400
+
+    This is the second try to test comming updates
+
+No fue hasta este punto en el cual logre hacer commit y verificar que todo esta de la manera correcta.
